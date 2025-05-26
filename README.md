@@ -1,38 +1,24 @@
-# H1 – Main Heading
-## H2 – Subheading
-### H3 – Smaller Heading
-#### H4 – Even Smaller
-##### H5
-###### H6
+---
+layout: default
+title: Anoushka's Portfolio
+---
+
+# Welcome to My Website ✨
+
+Hi! I'm Anoushka George, and this is my site made with GitHub Pages + Jekyll.
+
+## 🧠 What I Do
+
+- 💻 I code
+- 🗣️ I debate
+- 🚀 I build cool projects
+
+Check out more on [my GitHub](https://github.com/anoushkageorge)!
 
 ---
 
-**Bold text**  
-*Italic text*  
-***Bold + Italic***  
-~~Strikethrough~~
+### 🔗 Links
 
----
-
-> This is a blockquote.
->> You can nest blockquotes.
-
----
-
-- Bullet list item 1
-- Bullet list item 2
-  - Nested item
-
-1. Numbered list item 1
-2. Numbered list item 2
-   1. Nested numbered item
-
----
-
-[Link Text](https://example.com)  
-![Image Alt Text](path/to/image.png)
-
----
-
-`Inline code`
-
+- [Blog](./blog)
+- [Projects](./projects)
+- [Contact Me](mailto:youremail@example.com)
